@@ -1,0 +1,1 @@
+# Ejercicios-2-en-C-para-Kali-linux
